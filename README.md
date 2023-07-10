@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Parth</h1>
-<h3 align="center">I'm a passionate AI/ML enthusiast from India, actively working on government-funded projects. With prior experience as a Data Analyst at IBM, I have gained valuable insights into real-world data analysis challenges. My focus is on leveraging AI/ML techniques to drive innovation and contribute to cutting-edge projects.from India.</h3>
+<h3 align="center">I'm a passionate AI/ML enthusiast from India, actively working on government-funded projects. With prior experience as a Data Analyst at IBM, I have gained valuable insights into real-world data analysis challenges. My focus is on leveraging AI/ML techniques to drive innovation and contribute to cutting-edge projects from India.</h3>
 
 
 ## 🙋‍♂️ About Me
